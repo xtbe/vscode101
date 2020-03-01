@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome on My New Hugo Site</title>
+    <link>http://example.org/1_welcome/</link>
+    <description>Recent content in Welcome on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Feb 2020 17:50:24 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/1_welcome/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction</title>
+      <link>http://example.org/1_welcome/introduction/</link>
+      <pubDate>Sat, 29 Feb 2020 17:53:45 +0100</pubDate>
+      
+      <guid>http://example.org/1_welcome/introduction/</guid>
+      <description>Course objective Hello and welcome to the VS Code 101 course. The purpose of this course is to give a basic and solid introduction to Visual Studio Code. The course will start from scratch by installing it. After installing it we&amp;rsquo;ll explore the editor and highlight why Visual Studio Code should not be seen as &amp;ldquo;another text editor&amp;rdquo;.
+Target audience The target audience is everyone who is interested in using a more powerful editor than Notepad or Writer.</description>
+    </item>
+    
+  </channel>
+</rss>

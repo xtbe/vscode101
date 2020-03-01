@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The basics on My New Hugo Site</title>
+    <link>http://example.org/2_thebasics/</link>
+    <description>Recent content in The basics on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Feb 2020 18:17:22 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/2_thebasics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pre-Requisites</title>
+      <link>http://example.org/2_thebasics/prerequisites/</link>
+      <pubDate>Sat, 29 Feb 2020 18:28:50 +0100</pubDate>
+      
+      <guid>http://example.org/2_thebasics/prerequisites/</guid>
+      <description>Pre-Requisites In order to follow the course following software must be installed
+ GIT VS Code  </description>
+    </item>
+    
+    <item>
+      <title>First Steps</title>
+      <link>http://example.org/2_thebasics/firststeps/</link>
+      <pubDate>Sun, 01 Mar 2020 12:11:58 +0100</pubDate>
+      
+      <guid>http://example.org/2_thebasics/firststeps/</guid>
+      <description>Some terminology Basic shortcuts    Description Shortcut     Toggle Sidebar ⌘ / Ctrl +B   Open Command Pallette ⌘ / Ctrl +Shift + P   Open File Switcher ⌘ / Ctrl + P   Toggle Integrated Terminal ⌘ / Ctrl + `   Open Settings ⌘ / Ctrl + ,    </description>
+    </item>
+    
+  </channel>
+</rss>

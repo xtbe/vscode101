@@ -1,4 +1,4 @@
-baseURL: https://xtbe.github.io/vscode101/
+baseURL: //xtbe.github.io/vscode101
 languageCode: en-us
 title: My New Hugo Site
 theme: github.com/matcornic/hugo-theme-learn

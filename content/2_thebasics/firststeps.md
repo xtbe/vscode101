@@ -6,7 +6,7 @@ weight: 20
 
 ## Some terminology
 
-![Editor overview](/img/vscode_editor_overview.jpg)
+![Editor overview](img/vscode_editor_overview.jpg)
 
 
 ## Basic shortcuts

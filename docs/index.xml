@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
+    <link>https://xtbe.github.io/vscode101/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Mar 2020 12:11:58 +0100</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xtbe.github.io/vscode101/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Pre-Requisites</title>
-      <link>http://example.org/2_thebasics/prerequisites/</link>
+      <link>https://xtbe.github.io/vscode101/2_thebasics/prerequisites/</link>
       <pubDate>Sat, 29 Feb 2020 18:28:50 +0100</pubDate>
       
-      <guid>http://example.org/2_thebasics/prerequisites/</guid>
+      <guid>https://xtbe.github.io/vscode101/2_thebasics/prerequisites/</guid>
       <description>Pre-Requisites In order to follow the course following software must be installed
  GIT VS Code  </description>
     </item>
     
     <item>
       <title>First Steps</title>
-      <link>http://example.org/2_thebasics/firststeps/</link>
+      <link>https://xtbe.github.io/vscode101/2_thebasics/firststeps/</link>
       <pubDate>Sun, 01 Mar 2020 12:11:58 +0100</pubDate>
       
-      <guid>http://example.org/2_thebasics/firststeps/</guid>
+      <guid>https://xtbe.github.io/vscode101/2_thebasics/firststeps/</guid>
       <description>Some terminology Basic shortcuts    Description Shortcut     Toggle Sidebar ⌘ / Ctrl +B   Open Command Pallette ⌘ / Ctrl +Shift + P   Open File Switcher ⌘ / Ctrl + P   Toggle Integrated Terminal ⌘ / Ctrl + `   Open Settings ⌘ / Ctrl + ,    </description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>http://example.org/1_welcome/introduction/</link>
+      <link>https://xtbe.github.io/vscode101/1_welcome/introduction/</link>
       <pubDate>Sat, 29 Feb 2020 17:53:45 +0100</pubDate>
       
-      <guid>http://example.org/1_welcome/introduction/</guid>
+      <guid>https://xtbe.github.io/vscode101/1_welcome/introduction/</guid>
       <description>Course objective Hello and welcome to the VS Code 101 course. The purpose of this course is to give a basic and solid introduction to Visual Studio Code. The course will start from scratch by installing it. After installing it we&amp;rsquo;ll explore the editor and highlight why Visual Studio Code should not be seen as &amp;ldquo;another text editor&amp;rdquo;.
 Target audience The target audience is everyone who is interested in using a more powerful editor than Notepad or Writer.</description>
     </item>
